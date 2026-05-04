@@ -11,7 +11,9 @@ __________________ ׂ
 ₊˚ʚ 💙 ₊˚✧ ﾟ. Cursando Sistemas de Informação (3/8).
 ##
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Sgabrielemodesto&show_icons=true&theme=dracula)
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sgabrielemodesto&show_icons=true&theme=dracula">
+</div>
 
 </div>
 
