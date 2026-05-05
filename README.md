@@ -12,7 +12,7 @@ __________________ ׂ
 ##
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sgabrielemodesto&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielemodesto&show_icons=true&theme=dracula" />
 </div>
 
 </div>
