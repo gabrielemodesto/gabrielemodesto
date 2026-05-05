@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=d6f2ff"/>
 <div>
 
-<img src="https://i.pinimg.com/originals/02/a9/45/02a945b2d5cdde00d1dc5a8815644f4b.gif" witdh="20px" />
+<img src="https://i.pinimg.com/originals/02/a9/45/02a945b2d5cdde00d1dc5a8815644f4b.gif" witdh=20px />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Gaegu&size=42&pause=1000&width=435&lines=Oi!+Eu+sou+a+Gabi!)](https://git.io/typing-svg)
 
