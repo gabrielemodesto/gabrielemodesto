@@ -7,7 +7,7 @@
 
 🪼⋆.ೃ࿔*:･⋆ Técnica em Informática para Internet pelo IFES Serra.
 
-˙ ✩°˖🫐 ⋆｡˚꩜ Processamento de Imagens pelo IntegraCAR. 
+˙ ✩°˖🫐 ⋆｡˚꩜ Processamento de Imagens no SIGMA pelo IntegraCAR. 
 
 ✧˖° 
 
