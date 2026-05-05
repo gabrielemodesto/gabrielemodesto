@@ -2,8 +2,7 @@
 <div>
 
 <div align="left">
-  <img src="https://i.pinimg.com/originals/02/a9/45/02a945b2d5cdde00d1dc5a8815644f4b.gif" width="50" />
-  <br>
+  <img src="https://i.pinimg.com/originals/02/a9/45/02a945b2d5cdde00d1dc5a8815644f4b.gif" width="50" margin-right="10" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Gaegu&size=42&pause=1000&width=435&lines=Oi!+Eu+sou+a+Gabi!" />
   </a>
