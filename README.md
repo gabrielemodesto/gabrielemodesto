@@ -13,10 +13,11 @@
 
 ## ๋࣭ ⭑✮💻₊ Interesses 
 
-![UX/UI Design](https://img.shields.io/badge/UX%2FUI-Design-ff69b4?style=for-the-badge&logo=figma&logoColor=white)
-![Front-End](https://img.shields.io/badge/Front--End-Development-blue?style=for-the-badge&logo=react&logoColor=white)
-![GIS](https://img.shields.io/badge/GIS-Geographic%20Information%20Systems-green?style=for-the-badge&logo=qgis&logoColor=white)
-
+<div align="center">
+  ![UX/UI Design](https://img.shields.io/badge/UX%2FUI-Design-87CEEB?style=for-the-badge&logo=figma&logoColor=white)
+  ![Front-End](https://img.shields.io/badge/Front--End-Development-87CEEB?style=for-the-badge&logo=react&logoColor=white)
+  ![GIS](https://img.shields.io/badge/GIS-Geographic%20Information%20Systems-87CEEB?style=for-the-badge&logo=qgis&logoColor=white)
+</div>
 
 ## Stats
 <div align="center">
