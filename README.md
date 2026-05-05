@@ -17,10 +17,15 @@
   ![Front-End](https://img.shields.io/badge/Front--End-Development-87CEEB?style=for-the-badge&logo=react&logoColor=white)
   ![GIS](https://img.shields.io/badge/GIS-Geographic%20Information%20Systems-87CEEB?style=for-the-badge&logo=qgis&logoColor=white)
 
+## 🌐</>💻『』Ferramentas
 
-## Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielemodesto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+![Python](https://img.shields.io/badge/Python-87CEEB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-87CEEB?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-87CEEB?style=flat-square&logo=mysql&logoColor=white)
+
+##
+
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielemodesto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielemodesto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   
