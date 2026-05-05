@@ -30,7 +30,7 @@
 
 ## ૮ ˶ᵔ ᵕ ᵔ˶ ა Interesses Pessoais
 
-.ೀ Eu amo arte, música, dança e fotografia. Pinto com guache e aquarela e sou Kpop e MLP collector.
+.ೀ Eu amo arte, música, dança e fotografia. Pinto com guache e aquarela e sou Kpop collector.
 
   
 </div>
