@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=d6f2ff"/>
 <div>
 
-<div align="left">
-  <img src="https://i.pinimg.com/originals/02/a9/45/02a945b2d5cdde00d1dc5a8815644f4b.gif" width="50" margin="100px" />
+<div align="left" gap="10px">
+  <img src="https://i.pinimg.com/originals/02/a9/45/02a945b2d5cdde00d1dc5a8815644f4b.gif" width="50" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Gaegu&size=42&pause=1000&width=435&lines=Oi!+Eu+sou+a+Gabi!" />
   </a>
